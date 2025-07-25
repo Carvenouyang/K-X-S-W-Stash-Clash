@@ -1,0 +1,15 @@
+payload:
+  # 🎱 Snooker Stars 游戏专用规则
+  - DOMAIN,ggmultiplayer.herokuapp.com
+  - DOMAIN-KEYWORD,herokuapp
+  - DOMAIN-SUFFIX,boombit.com
+  - DOMAIN-SUFFIX,unity3d.com
+  - DOMAIN-SUFFIX,unityads.unity3d.com
+  - DOMAIN-SUFFIX,firebaseio.com
+  - DOMAIN-SUFFIX,googleapis.com
+  - DOMAIN-SUFFIX,gvt1.com
+  - DOMAIN-SUFFIX,adjust.com
+  - DOMAIN-SUFFIX,appsflyer.com
+  - DOMAIN-SUFFIX,crashlytics.com
+  - DOMAIN-SUFFIX,fabric.io
+  - DOMAIN-SUFFIX,time.google.com
