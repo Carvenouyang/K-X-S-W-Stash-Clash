@@ -5,7 +5,8 @@ payload:
   - DOMAIN,ggmultiplayer.herokuapp.com
   - DOMAIN-KEYWORD,herokuapp
   - DOMAIN-SUFFIX,boombit.com
-  - DOMAIN-SUFFIX,exitgamescloud.com     # Photon 服务器（必须）
+  # Photon 服务器（必须）
+  - DOMAIN-SUFFIX,exitgamescloud.com     
 
   ## Unity 游戏引擎运行相关
   - DOMAIN-SUFFIX,unity3d.com
