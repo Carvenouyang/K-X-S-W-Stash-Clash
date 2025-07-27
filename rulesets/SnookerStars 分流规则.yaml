@@ -5,11 +5,19 @@ payload:
   - DOMAIN,ggmultiplayer.herokuapp.com
   - DOMAIN-KEYWORD,herokuapp
   - DOMAIN-SUFFIX,boombit.com
-  - DOMAIN-SUFFIX,exitgamescloud.com     # ← 新增：Photon Cloud 服务器（必须）
+  - DOMAIN-SUFFIX,exitgamescloud.com     # Photon 服务器（必须）
 
   ## Unity 游戏引擎运行相关
   - DOMAIN-SUFFIX,unity3d.com
   - DOMAIN-SUFFIX,unityads.unity3d.com
+  - DOMAIN-SUFFIX,cloud.unity3d.com
+  - DOMAIN-SUFFIX,config.unityads.unity3d.com
+  - DOMAIN-SUFFIX,analytics.unity3d.com
 
-  ## Firebase 实时数据库（同步、登录等）
+  ## Firebase 实时数据库 + 登录/认证服务
   - DOMAIN-SUFFIX,firebaseio.com
+  - DOMAIN-SUFFIX,firebase.googleapis.com
+  - DOMAIN-SUFFIX,googleapis.com
+
+  ## Google 资源服务（Firebase 依赖）
+  - DOMAIN-SUFFIX,gstatic.com
