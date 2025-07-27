@@ -16,8 +16,6 @@ payload:
 
   ## Firebase 实时数据库 + 登录/认证服务
   - DOMAIN-SUFFIX,firebaseio.com
-  - DOMAIN-SUFFIX,firebase.googleapis.com
-  - DOMAIN-SUFFIX,googleapis.com
 
   ## Google 资源服务（Firebase 依赖）
   - DOMAIN-SUFFIX,gstatic.com
