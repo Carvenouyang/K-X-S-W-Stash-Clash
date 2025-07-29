@@ -14,9 +14,3 @@ payload:
   - DOMAIN-SUFFIX,cloud.unity3d.com
   - DOMAIN-SUFFIX,config.unityads.unity3d.com
   - DOMAIN-SUFFIX,analytics.unity3d.com
-
-  ## Firebase 实时数据库 + 登录/认证服务
-  - DOMAIN-SUFFIX,firebaseio.com
-
-  ## Google 资源服务（Firebase 依赖）
-  - DOMAIN-SUFFIX,gstatic.com
