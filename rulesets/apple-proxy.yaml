@@ -1,0 +1,48 @@
+payload:
+  # App Store & iTunes
+  - DOMAIN-SUFFIX,apps.apple.com
+  - DOMAIN-SUFFIX,itunes.apple.com
+  - DOMAIN-SUFFIX,mzstatic.com
+
+  # Apple Music & Books
+  - DOMAIN-SUFFIX,music.apple.com
+  - DOMAIN-SUFFIX,api.music.apple.com
+  - DOMAIN-SUFFIX,books.apple.com
+
+  # Apple TV & News
+  - DOMAIN-SUFFIX,video.apple.com
+  - DOMAIN-SUFFIX,apple.news
+
+  # Apple ID 登录与验证
+  - DOMAIN-SUFFIX,appleid.apple.com
+  - DOMAIN-SUFFIX,idmsa.apple.com
+  - DOMAIN-SUFFIX,appleid.cdn-apple.com
+
+  # 推送通知
+  - DOMAIN-SUFFIX,push.apple.com
+  - DOMAIN-SUFFIX,api.push.apple.com
+
+  # iCloud 服务
+  - DOMAIN-SUFFIX,icloud.com
+  - DOMAIN-SUFFIX,icloud-content.com
+  - DOMAIN-SUFFIX,me.com
+
+  # 软件更新
+  - DOMAIN-SUFFIX,swcdn.apple.com
+  - DOMAIN-SUFFIX,swscan.apple.com
+  - DOMAIN-SUFFIX,swquery.apple.com
+  - DOMAIN-SUFFIX,gdmf.apple.com
+
+  # 设备激活与验证
+  - DOMAIN-SUFFIX,albert.apple.com
+  - DOMAIN-SUFFIX,gs.apple.com
+  - DOMAIN-SUFFIX,humb.apple.com
+  - DOMAIN-SUFFIX,tbsc.apple.com
+
+  # 企业管理服务（如 ABM/ASM）
+  - DOMAIN-SUFFIX,deviceenrollment.apple.com
+  - DOMAIN-SUFFIX,deviceservices-external.apple.com
+  - DOMAIN-SUFFIX,iprofiles.apple.com
+  - DOMAIN-SUFFIX,mdmenrollment.apple.com
+  - DOMAIN-SUFFIX,business.apple.com
+  - DOMAIN-SUFFIX,school.apple.com
