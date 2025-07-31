@@ -1,0 +1,12 @@
+payload:
+  - DOMAIN-SUFFIX,apple.com
+  - DOMAIN-SUFFIX,time.apple.com
+  - DOMAIN-SUFFIX,time-ios.apple.com
+  - DOMAIN-SUFFIX,time-macos.apple.com
+  - DOMAIN-SUFFIX,captive.apple.com
+  - DOMAIN-SUFFIX,static.ips.apple.com
+  - DOMAIN-SUFFIX,setup.icloud.com
+  - DOMAIN-SUFFIX,statici.icloud.com
+  - DOMAIN-SUFFIX,www.apple.com
+  - DOMAIN-SUFFIX,axm-servicediscovery.apple.com
+  - DOMAIN-SUFFIX,sq-device.apple.com
