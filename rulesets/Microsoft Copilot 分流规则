@@ -1,0 +1,27 @@
+payload:
+  # Microsoft Copilot 核心域名
+  - DOMAIN,copilot.microsoft.com
+  - DOMAIN,copilot.office.com
+  - DOMAIN,copilot-api.microsoft.com
+  - DOMAIN,api.bing.microsoft.com
+
+  # 常用 Microsoft 验证与接口域名
+  - DOMAIN-SUFFIX,office.com
+  - DOMAIN-SUFFIX,office365.com
+  - DOMAIN-SUFFIX,microsoftonline.com
+  - DOMAIN-SUFFIX,live.com
+  - DOMAIN-SUFFIX,msftauth.net
+  - DOMAIN-SUFFIX,msauth.net
+
+  # 支持服务（CDN、账户系统等）
+  - DOMAIN-SUFFIX,msedge.net
+  - DOMAIN-SUFFIX,aka.ms
+  - DOMAIN-SUFFIX,msn.com
+  - DOMAIN-SUFFIX,windows.com
+  - DOMAIN-SUFFIX,onedrive.live.com
+  - DOMAIN-SUFFIX,onenote.com
+  - DOMAIN-SUFFIX,azureedge.net
+  - DOMAIN-SUFFIX,teams.microsoft.com
+
+  # 关键词匹配兜底
+  - DOMAIN-KEYWORD,copilot
